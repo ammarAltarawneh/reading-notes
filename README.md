@@ -48,3 +48,4 @@ The "n" command navigates to the next found item during a search within a manual
 "mv" moves or renames files or directories.
 
 "rm" deletes files.
+

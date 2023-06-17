@@ -6,14 +6,6 @@ Code Fellows also provides coding curriculum to partner bootcamps and schools.
 ## Code 401 - Advanced *Software Development*
 
 
-# relational databases and SQL
-![](/1.png)
-![](/2.png)
-![](/3.png)
-![](/4.png)
-![](/5.png)
-
-
 # The Command Line
 1- A command line or terminal is a text-based interface where you enter commands. To open it, search for "Terminal" on Windows. The terminal runs a shell  that executes commands. It provides shortcuts and prevents mistakes.
 

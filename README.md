@@ -8,4 +8,4 @@
 
 * Entity Framework and APIs [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/EntityFrameworkAndAPIs.md)
 
-* Dependency Injection & Repository patterns [README]()
+* Dependency Injection & Repository patterns [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/DependencyInjection.md)

@@ -7,3 +7,5 @@
 * LINQ & Delegates [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/LINQ%26Delegates.md)
 
 * Entity Framework and APIs [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/EntityFrameworkAndAPIs.md)
+
+* Dependency Injection & Repository patterns [README]()

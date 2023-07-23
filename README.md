@@ -10,4 +10,4 @@
 
 * Dependency Injection & Repository patterns [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/DependencyInjection.md)
 
-* Navigation Properties and Routing [README] ()
+* Navigation Properties and Routing [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/NavigationProperties%26Routing.md)

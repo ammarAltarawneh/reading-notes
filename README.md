@@ -9,3 +9,5 @@
 * Entity Framework and APIs [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/EntityFrameworkAndAPIs.md)
 
 * Dependency Injection & Repository patterns [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/DependencyInjection.md)
+
+* Navigation Properties and Routing [README] ()

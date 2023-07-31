@@ -16,4 +16,4 @@
 
 * Data Transfer Objects [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/DTOs.md)
 
-* Testing and Swagger and Deployment [README]()
+* Testing and Swagger and Deployment [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/TestingSwaggerDeployment.md)

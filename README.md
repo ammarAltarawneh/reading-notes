@@ -19,3 +19,5 @@
 * Testing and Swagger and Deployment [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/TestingSwaggerDeployment.md)
 
 * Identity [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/Identity.md)
+
+* Roles, Claims and JWT Tokens [README]()

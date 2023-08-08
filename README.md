@@ -20,4 +20,4 @@
 
 * Identity [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/Identity.md)
 
-* Roles, Claims and JWT Tokens [README]()
+* Roles, Claims and JWT Tokens [README](https://github.com/ammarAltarawneh/reading-notes/blob/main/RolesClaimsTokens.md)

@@ -16,7 +16,7 @@
 - ReactDOM's `render()` function is used to render React elements into the DOM.
 - React elements are immutable, and updating the UI involves creating new elements and comparing them to the previous ones.
 
-## React - Components & Props
+## React - Components & Props 
 - React components are reusable UI elements that encapsulate their behavior and presentation.
 - Components can accept data and configuration through props (short for properties).
 - Props allow components to be configured dynamically, making them versatile and reusable.
